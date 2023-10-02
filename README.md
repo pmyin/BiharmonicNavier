@@ -2,7 +2,7 @@
 
 * Title: A $C^0$ finite element method for the biharmonic problem with Navier boundary conditions in a polygonal domain.
 
-* This code recovers the example in [1] on an L-shaped domain.
+* This code recovers the example in [1] in an L-shaped domain.
 
 * The current code only shows the case with an L-shaped domain, if you need to calculate more general angles, or more assistance is needed, please reach out to PeimengYin@gmail.com
 

@@ -1,6 +1,6 @@
 # BiharmonicNavier
 
-Title: A $C^0$ finite element method for the biharmonic problem with Navier boundary conditions in a polygonal domain.
+* Title: A $C^0$ finite element method for the biharmonic problem with Navier boundary conditions in a polygonal domain.
 
 This code recovers the example in [1] on an L-shaped domain.
 

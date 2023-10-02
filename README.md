@@ -4,7 +4,7 @@
 
 * This code recovers the example in [1] on an L-shaped domain.
 
-The current code only shows the case with an L-shaped domain, if you need to calculate more general angles, or more assistance is needed, please reach out to PeimengYin@gmail.com
+* The current code only shows the case with an L-shaped domain, if you need to calculate more general angles, or more assistance is needed, please reach out to PeimengYin@gmail.com
 
 * To cite this code or the original article, please cite [1] below.
 

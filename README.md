@@ -13,5 +13,3 @@
 * To cite this code or the original article, please cite [1] below.
 
 * [1] Hengguang Li, Peimeng Yin and Zhimin Zhang. A $C^0$ finite element method for the biharmonic problem with Navier boundary conditions in a polygonal domain. IMA Journal of Numerical Analysis, 43:1779-1801, 2023.
-
-* The code is developed based on iFEM by Long Chen.
